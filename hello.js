@@ -32,6 +32,7 @@ function update() {
     ball.dy *= -1;
   }
 
+
   ball.x += ball.dx;
   ball.y += ball.dy;
 
